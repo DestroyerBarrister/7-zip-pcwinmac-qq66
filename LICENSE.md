@@ -1,4 +1,4 @@
-# 
+# VIP 7-Zip scripts para Mac OS | Actualizado 7-Zip scripts para PC Windows. Con interfaz personalizable y vista previa rápida — optimizado para el máximo rendimiento en cada plataforma.
 
 
 
